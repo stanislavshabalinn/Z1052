@@ -96,6 +96,7 @@
             }
 
 
+
         public interface Ilogger
         {
             void Event(string message);
