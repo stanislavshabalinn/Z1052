@@ -1,4 +1,10 @@
-﻿namespace Z1052
+﻿using System.IO;
+using System.Net;
+using System.Diagnostics;
+using System.Xml;
+using Microsoft;
+
+namespace Z1052
 {
     internal class Program
     {
